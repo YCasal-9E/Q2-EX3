@@ -1,0 +1,16 @@
+body{
+	background-color: rosybrown;
+	color: white;
+	font-family: oxygen;
+}
+
+.container{
+	background-color:#7A6C73;
+	box-shadow: -3px 16px 34px 0px rgba(0,0,0,0.59);
+	margin-top:30px;
+	margin-bottom: 30px;
+	padding-top: 15px;
+}
+img{
+	width: 200px;
+}
